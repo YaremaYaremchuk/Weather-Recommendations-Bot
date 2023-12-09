@@ -11,10 +11,14 @@ This Python-based Telegram bot utilizes the OpenWeather JSON Database API to pro
 # How to try out the bot
 The bot may be easily searched in telegram by its username **@weatherrecommendbot**, where you can try out its functions.
 
-# User guide:
+# Showcase
+<img src="https://github.com/YaremaYaremchuk/WeatherRecommendationsBot/blob/main/showcase.jpeg" width="408">
+
+
+# User guide
 
 1. Initiate the bot by using the "/start" command.
-2. Input your city's name.
+2. Inputhttps://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true your city's name.
 3. View the displayed weather recommendations based on current conditions.
 
 
